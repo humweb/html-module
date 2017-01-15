@@ -14,6 +14,7 @@ class HtmlServiceProvider extends ModuleBaseProvider
         //
     }
 
+
     /**
      * Register any application services.
      *
